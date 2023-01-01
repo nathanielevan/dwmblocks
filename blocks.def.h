@@ -4,9 +4,8 @@ static const Block blocks[] = {
 	{""   , "status-eth", 2, 0},
 	{""   , "status-wlan", 2, 0},
 	{""   , "status-vol", 2, 10},
-	{""   , "status-ram", 2, 0},
-	{""   , "status-cpu", 2, 0},
 	{""   , "status-bat", 2, 0},
+	{""   , "status-mon", 2, 0},
 	{""   , "status-time", 5, 0},
 };
 
